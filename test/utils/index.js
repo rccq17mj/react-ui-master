@@ -1,0 +1,11 @@
+describe('Utils API Unit Test', function () {
+  require('./datetime')
+  require('./circle')
+  require('./clone')
+  require('./deepEqual')
+  require('./lang')
+  require('./merge')
+  require('./proptypes')
+  require('./objects')
+  require('./strings')
+})
